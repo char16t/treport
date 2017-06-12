@@ -72,6 +72,8 @@ If you want automatically clock out current task when you leaving Emacs, add thi
 ![3](https://raw.githubusercontent.com/char16t/i/master/treport-3.png)
 ![4](https://raw.githubusercontent.com/char16t/i/master/treport-4.png)
 
+*On example in screenshots was pressed* `C-c i 1 3`
+
 When you start working with Emacs you don't need to create a new file
 `daily-log<current date>.org`. It will be created every day automatically.
 
