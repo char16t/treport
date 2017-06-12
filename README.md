@@ -78,10 +78,10 @@ When you start working with Emacs you don't need to create a new file
 `daily-log<current date>.org`. It will be created every day automatically.
 
 All you have to do is press `C-c i` and select the category of tasks over which
-you start to work. The clock starts to count down the time work on the chosen
-task. When you finish a task you have to press `C-c d` and enter details if you
-want. Then again press `C-c i` and choose a category. At the end of the day you
-close Emacs and clock out occurs.
+you start to work. The clock starts to count time of work on the chosen task.
+When you finish a task you have to press `C-c d` and enter details if you want.
+Then again press `C-c i` and choose a category. At the end of the day you close
+Emacs and clock out occurs.
 
 At the end of the day you can open your file `daily-log-<current date>.org` to
 build time table provided by Org Mode. You also can add tables to your ethalon
