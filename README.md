@@ -1,6 +1,6 @@
 # treport
 
-Daily fast and easy time tracking and reports for Org Mode.
+Fast and easy time tracking and daily reports for Org Mode.
 
 ## Installation
 
